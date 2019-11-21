@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3549551.svg)](https://doi.org/10.5281/zenodo.3549551)
+
 # Trove API intro
 
 Jupyter notebooks to introduce Trove's API.
