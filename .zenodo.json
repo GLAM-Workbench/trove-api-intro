@@ -1,0 +1,41 @@
+{
+  "language": "eng",
+  "license": "MIT",
+  "title": "trove-api-intro",
+  "related_identifiers": [
+    {
+      "scheme": "url",
+      "identifier": "https://github.com/trove-api-intro/tree/v1.0.0",
+      "relation": "isDerivedFrom",
+      "resource_type": "software"
+    },
+    {
+      "scheme": "url",
+      "identifier": "https://glam-workbench.net/trove/",
+      "relation": "isDocumentedBy",
+      "resource_type": "publication-softwaredocumentation"
+    },
+    {
+      "scheme": "url",
+      "identifier": "https://glam-workbench.net/",
+      "relation": "isPartOf",
+      "resource_type": "other"
+    }
+  ],
+  "version": "v1.0.0",
+  "upload_type": "software",
+  "keywords": [
+    "digital humanities",
+    "Jupyter",
+    "GLAM Workbench"
+  ],
+  "publication_date": "2023-01-16",
+  "creators": [
+    {
+      "name": "Sherratt, Tim",
+      "orcid": "0000-0001-7956-4498"
+    }
+  ],
+  "access_right": "open",
+  "description": "<p>Current version: <a href=\"https://github.com/GLAM-Workbench/trove-api-intro/releases/tag/v1.0.0\">v1.0.0</a></p> <p>Trove provides access to much of its data through APIs (Application Programming Interfaces). These include:</p> <ul> <li>the main Trove API delivers data from aggregated collections, digitised resources (including newspapers), and user activity (such as lists and tags)</li> <li>OAI-PMH and SRU APIs deliver data from the Trove People and organisations zone</li> <li><a href=\"https://glam-workbench.net/web-archives/\">Memento and CDX APIs</a> deliver data from the Australian Web Archive</li> </ul> <p>The notebooks in this repository provide examples of using the main Trove API to harvest data and analyse the contents of Trove resources. You’ll find more examples throughout the Trove sections of the <a href=\"https://glam-workbench.net/\">GLAM Workbench</a>. For help building your own Trove API requests, try the <a href=\"http://troveconsole.herokuapp.com/\">Trove API Console</a>.</p> <h2 id=\"notebook-topics\">Notebook topics</h2> <ul> <li>Your first API request – learn how to send a request for information to the Trove API.</li> <li>Working with zones – Trove’s zones are important in constructing API requests and interpreting the results. So let’s explore them a bit.</li> <li>Exploring facets – Facets aggregate collection data in interesting and useful ways, allowing us to build pictures of the collection.</li> </ul> <h2 id=\"cite-as\">Cite as</h2> <p>See the GLAM Workbench or <a href=\"https://doi.org/10.5281/zenodo.3549550\">Zenodo</a> for up-to-date citation details.</p> <hr /> <p>This repository is part of the <a href=\"https://glam-workbench.github.io/\">GLAM Workbench</a>.</p>"
+}
