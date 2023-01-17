@@ -4,3 +4,5 @@ altair
 python-dotenv
 jupyterlab
 jupyter-archive
+# To deal with https://github.com/jupyter-server/jupyter_server/issues/1038
+jupyter-server<2.0.0
