@@ -1,7 +1,0 @@
-#!/bin/bash
-
-set -e
-
-echo $@
-
-exec jupyter-lab "${@:4}" --ip="0.0.0.0" --LabApp.default_url="/lab/tree/index.ipynb"
