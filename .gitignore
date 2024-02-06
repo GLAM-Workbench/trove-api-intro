@@ -3,3 +3,8 @@
 snippets.ipynb
 .ipynb_checkpoints
 .env
+deprecated-*
+data
+Untitled*
+*.ndjson
+*.csv

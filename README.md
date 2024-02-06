@@ -1,6 +1,6 @@
 # Trove API intro
 
-Current version: [v1.0.0](https://github.com/GLAM-Workbench/trove-api-intro/releases/tag/v1.0.0)
+Current version: [v2.0.0](https://github.com/GLAM-Workbench/trove-api-intro/releases/tag/v2.0.0)
 
 Trove provides access to much of its data through APIs (Application Programming Interfaces). These include:
 
